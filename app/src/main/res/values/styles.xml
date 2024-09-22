@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="CustomButton" parent="Widget.Material3.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+    </style>
+
+    <style name="CustomBottomNavigationActive" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">?colorTertiary</item>
+    </style>
+
+    <style name="CustomOverflowMenu" parent="Widget.Material3.PopupMenu.Overflow">
+        <item name="android:backgroundTint">?colorOnPrimarySurface</item>
+    </style>
+</resources>

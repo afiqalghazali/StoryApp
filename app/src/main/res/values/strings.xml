@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+    <string name="login">Log In</string>
+    <string name="register">Create new account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="logout">Log Out</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+    <string name="widget_title">TODAY\'S POST</string>
+    <string name="language">Language</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="message">Message</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="welcome_text">Share Your Story With Everyone 🎊</string>
+    <string name="login_text">Login with your account</string>
+    <string name="register_text">Make your account</string>
+    <string name="no_post">No Post</string>
+    <string name="image_post_description">Image Post</string>
+    <string name="welcome_cover_description">Welcome Cover</string>
+    <string name="timestamp">1 minute ago</string>
+    <string name="email_error">Invalid email format</string>
+    <string name="password_error">Password must be at least 8 characters long</string>
+    <string name="upload_message">Please upload an image file first</string>
+    <string name="logout_message">Are you sure you want to log out?</string>
+    <string name="login_message">Your account has been created. Please log in</string>
+    <string name="location">Location</string>
+    <string name="maps">Maps</string>
+    <string name="home">Home</string>
+    <string name="add_location">Add location</string>
+</resources>

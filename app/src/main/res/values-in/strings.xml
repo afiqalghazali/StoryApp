@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Masuk</string>
+    <string name="register">Buat akun baru</string>
+    <string name="password">Kata Sandi</string>
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="author">Penulis</string>
+    <string name="description">Deskripsi</string>
+    <string name="widget_title">POSTINGAN HARI INI</string>
+    <string name="language">Bahasa</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="message">Pesan</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="welcome_text">Bagikan Cerita Anda dengan Semua Orang 🎊</string>
+    <string name="login_text">Masuk dengan akun Anda</string>
+    <string name="register_text">Buat akun Anda</string>
+    <string name="no_post">Tidak Ada Postingan</string>
+    <string name="image_post_description">Postingan Gambar</string>
+    <string name="welcome_cover_description">Sampul Selamat Datang</string>
+    <string name="timestamp">1 menit yang lalu</string>
+    <string name="email_error">Format email tidak valid</string>
+    <string name="password_error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="upload_message">Silakan masukkan berkas gambar terlebih dahulu</string>
+    <string name="logout_message">Apakah Anda yakin ingin keluar?</string>
+    <string name="login_message">Akun anda telah dibuat. Silahkan masuk</string>
+    <string name="location">Lokasi</string>
+    <string name="maps">Peta</string>
+    <string name="home">Rumah</string>
+    <string name="add_location">Tambahkan lokasi</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/green_600</item>
+        <item name="colorOnPrimary">@color/green_50</item>
+        <item name="colorOnPrimarySurface">@color/black</item>
+        <item name="colorSecondary">@color/green_900</item>
+        <item name="colorOnSecondary">@color/green_100</item>
+        <item name="colorTertiary">@color/green_800</item>
+        <item name="colorAccent">@color/gray</item>
+    </style>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Mlebu</string>
+    <string name="register">Gawé akun anyar</string>
+    <string name="password">Sandhi</string>
+    <string name="email">Email</string>
+    <string name="name">Jeneng</string>
+    <string name="logout">Metu</string>
+    <string name="author">Panganggit</string>
+    <string name="description">Katrangan</string>
+    <string name="widget_title">POSTING DINA IKI</string>
+    <string name="language">Basa</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="message">Pesen</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="welcome_text">Share Critamu karo Kabeh Wong 🎊</string>
+    <string name="login_text">Mlebu nganggo akunmu</string>
+    <string name="register_text">Gawé akunmu</string>
+    <string name="no_post">Ora Ana Postingan</string>
+    <string name="image_post_description">Postingan Gambar</string>
+    <string name="welcome_cover_description">Sampul Sugeng Rawuh</string>
+    <string name="timestamp">1 menit kepungkur</string>
+    <string name="email_error">Format e-mail ora sah</string>
+    <string name="password_error">Sandhi kudu setidaknya 8 aksara</string>
+    <string name="upload_message">Monggo unggah berkas gambar dhisik</string>
+    <string name="logout_message">Apa sampeyan yakin pengen metu?</string>
+    <string name="login_message">Akun sampeyan wis diwasa. Sumangga mlebu</string>
+    <string name="location">Lokasi</string>
+    <string name="maps">Peta</string>
+    <string name="home">Omah</string>
+    <string name="add_location">Tambahkan lokasi</string>
+</resources>

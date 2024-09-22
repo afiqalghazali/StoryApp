@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Crear nueva cuenta</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="name">Nombre</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="author">Autor</string>
+    <string name="description">Descripción</string>
+    <string name="widget_title">PUBLICACIÓN DEL DÍA</string>
+    <string name="language">Idioma</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="message">Mensaje</string>
+    <string name="gallery">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="upload">Subir</string>
+    <string name="welcome_text">Comparte tu historia con todos 🎊</string>
+    <string name="login_text">Inicia sesión con tu cuenta</string>
+    <string name="register_text">Crea tu cuenta</string>
+    <string name="no_post">Sin publicaciones</string>
+    <string name="image_post_description">Publicación de imagen</string>
+    <string name="welcome_cover_description">Portada de bienvenida</string>
+    <string name="timestamp">Hace 1 minuto</string>
+    <string name="email_error">Formato de correo electrónico inválido</string>
+    <string name="password_error">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="upload_message">Por favor, sube un archivo de imagen primero</string>
+    <string name="logout_message">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="login_message">Tu cuenta ha sido creada. Por favor, inicia sesión</string>
+    <string name="location">Ubicación</string>
+    <string name="maps">Mapas</string>
+    <string name="home">Hogar</string>
+    <string name="add_location">Agregar ubicación</string>
+</resources>

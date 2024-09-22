@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Masuk</string>
+    <string name="register">Buat Akaun Baru</string>
+    <string name="password">Kata Laluan</string>
+    <string name="email">E-mel</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="author">Penulis</string>
+    <string name="description">Penerangan</string>
+    <string name="widget_title">POST HARI INI</string>
+    <string name="language">Bahasa</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="message">Mesej</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Muat Naik</string>
+    <string name="welcome_text">Kongsi Cerita Anda Dengan Semua Orang 🎊</string>
+    <string name="login_text">Masuk Dengan Akaun Anda</string>
+    <string name="register_text">Buat Akaun Anda</string>
+    <string name="no_post">Tiada Catatan</string>
+    <string name="image_post_description">Catatan Imej</string>
+    <string name="welcome_cover_description">Kulit Sambutan</string>
+    <string name="timestamp">1 minit yang lalu</string>
+    <string name="email_error">Format e-mel tidak sah</string>
+    <string name="password_error">Kata laluan mesti sekurang-kurangnya 8 aksara</string>
+    <string name="upload_message">Sila muat naik fail imej dahulu</string>
+    <string name="logout_message">Adakah anda pasti ingin keluar?</string>
+    <string name="login_message">Akaun anda telah dicipta. Sila masuk</string>
+    <string name="location">Lokasi</string>
+    <string name="maps">Peta</string>
+    <string name="home">Rumah</string>
+    <string name="add_location">Tambah lokasi</string>
+</resources>
