@@ -1,3 +1,15 @@
+import java.util.Properties
+val localProperties = Properties().apply {
+    val localFile = rootProject.file("local.properties")
+    if (localFile.exists()) {
+        load(localFile.inputStream())
+    }
+}
+
+val mapsApiKey: String = localProperties.getProperty("MAPS_API_KEY") ?: ""
+
+
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
@@ -19,6 +31,7 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         buildConfigField("String", "BASE_URL", "\"https://story-api.dicoding.dev/v1/\"")
+        resValue("string", "MAPS_API_KEY", mapsApiKey)
     }
 
     buildTypes {
