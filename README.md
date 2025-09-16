@@ -2,6 +2,13 @@
 
 StoryApp is a mobile app for sharing and exploring location-based stories. Post your experiences with photos, descriptions, and locations, and discover moments from around the world through an interactive map.
 
+## ⚒️ Usage
+
+Add in your `local.properties` with your API key:
+```
+MAPS_API_KEY=YOUR_MAPS_API_KEY
+```
+
 ## 🚀 Features
 
 - **Stories Timeline** – Share and browse stories with photos and descriptions.  
