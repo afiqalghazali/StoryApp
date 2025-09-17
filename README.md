@@ -1,6 +1,6 @@
-![App Thumbnail](https://github.com/user-attachments/assets/12c3f401-82b2-4fa7-a970-06f9617b2ddb)
-
 # StoryApp
+
+![App Thumbnail](https://github.com/user-attachments/assets/12c3f401-82b2-4fa7-a970-06f9617b2ddb)
 
 StoryApp is a mobile app for sharing and exploring location-based stories. Post your experiences with photos, descriptions, and locations, and discover moments from around the world through an interactive map.
 
